@@ -1,7 +1,6 @@
 # Info from: https://github.com/gitpod-samples/template-dotnet-core-cli-csharp/blob/master/.gitpod.yml 
 #   &  https://www.gitpod.io/docs/introduction/languages/dotnet
-image:
-  file: .gitpod.Dockerfile
+image: gitpod/workspace-dotnet-vnc:latest
 
 # tasks:
 #   - name: Restore & Build
