@@ -1,0 +1,69 @@
+{
+	"files": [
+		{
+			"path": "13 - Integrating Via Http and Rest/PPPDDD.REST.SocialMedia/AccountManagement.EntryPoint/App_Start/WebApiConfig.cs",
+			"bookmarks": [
+				{
+					"line": 3,
+					"column": 0,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "13 - Integrating Via Http and Rest/PPPDDD.REST.SocialMedia/AccountManagement.EntryPoint/Controllers/EntryPointController.cs",
+			"bookmarks": [
+				{
+					"line": 9,
+					"column": 44,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "12 - Integrating Via Messaging/DDDesign.Web/Global.asax",
+			"bookmarks": [
+				{
+					"line": 0,
+					"column": 0,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "12 - Integrating Via Messaging/DDDesign.Web/Global.asax.cs",
+			"bookmarks": [
+				{
+					"line": 10,
+					"column": 30,
+					"label": ""
+				},
+				{
+					"line": 16,
+					"column": 30,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "13 - Integrating Via Http and Rest/PPPDDD.REST.SocialMedia/AccountManagement.Accounts.Api/Web.config",
+			"bookmarks": [
+				{
+					"line": 8,
+					"column": 28,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "13 - Integrating Via Http and Rest/PPPDDD.REST.SocialMedia/AccountManagement.Accounts.Api/packages.config",
+			"bookmarks": [
+				{
+					"line": 6,
+					"column": 20,
+					"label": ""
+				}
+			]
+		}
+	]
+}
