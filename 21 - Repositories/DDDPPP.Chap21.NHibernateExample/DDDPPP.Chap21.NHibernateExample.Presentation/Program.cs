@@ -13,6 +13,8 @@ namespace DDDPPP.Chap21.NHibernateExample.Presentation
 
        public static void Main(string[] args)
         {
+            Console.WriteLine("ezaezfzef");
+
             Bootstrapper.Startup();
                      
             var memberIdA = Guid.NewGuid();
