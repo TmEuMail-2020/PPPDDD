@@ -84,6 +84,16 @@
 					"label": ""
 				}
 			]
+		},
+		{
+			"path": "10 - Applying the Principles, Practices and Patterns of DDD/PPPDDD.Chap10.ecommerce/PPPDDD.Chap10.ecommerce/ImplicitLogic/Model/basket.cs",
+			"bookmarks": [
+				{
+					"line": 18,
+					"column": 40,
+					"label": ""
+				}
+			]
 		}
 	]
 }
