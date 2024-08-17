@@ -64,6 +64,26 @@
 					"label": ""
 				}
 			]
+		},
+		{
+			"path": "05 - Domain Model Implementation Patterns/PPPDDDChap05.DomainModel/PPPDDDChap05.DomainModel.sln",
+			"bookmarks": [
+				{
+					"line": 1,
+					"column": 49,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "25 - Commands Application Service Patterns for processing Business Use Cases/DDDPPP.Chap20.CommandHandler.Application/Application/Handlers/AddProductToBasketCommandHandler.cs",
+			"bookmarks": [
+				{
+					"line": 12,
+					"column": 56,
+					"label": ""
+				}
+			]
 		}
 	]
 }

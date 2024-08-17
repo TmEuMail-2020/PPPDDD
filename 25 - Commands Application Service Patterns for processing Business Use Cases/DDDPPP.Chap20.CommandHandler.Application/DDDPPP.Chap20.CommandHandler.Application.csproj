@@ -86,6 +86,12 @@
     <Content Include="Infrastructure\Mapping\Offer.hbm.xml" />
     <Content Include="Infrastructure\Mapping\Product.hbm.xml" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\asp-net-design-patterns\Agathas.Storefront.Infrastructure\Agathas.Storefront.Infrastructure.csproj">
+      <Project>{599e0cf8-afbe-4007-a788-aedb7f6e66f8}</Project>
+      <Name>Agathas.Storefront.Infrastructure</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

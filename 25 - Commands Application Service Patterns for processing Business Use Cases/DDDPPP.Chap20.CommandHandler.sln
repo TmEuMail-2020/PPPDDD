@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDDPPP.Chap20.CommandHandler.Application", "DDDPPP.Chap20.CommandHandler.Application\DDDPPP.Chap20.CommandHandler.Application.csproj", "{52858090-3479-4015-984F-5AA049857F3F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{C0A1BA29-2AC9-4C3D-B3BF-CE1E466478C9}"
@@ -9,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{C0A1BA
 		.nuget\NuGet.exe = .nuget\NuGet.exe
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agathas.Storefront.Infrastructure", "..\..\asp-net-design-patterns\Agathas.Storefront.Infrastructure\Agathas.Storefront.Infrastructure.csproj", "{599E0CF8-AFBE-4007-A788-AEDB7F6E66F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,8 +24,15 @@ Global
 		{52858090-3479-4015-984F-5AA049857F3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52858090-3479-4015-984F-5AA049857F3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52858090-3479-4015-984F-5AA049857F3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{599E0CF8-AFBE-4007-A788-AEDB7F6E66F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{599E0CF8-AFBE-4007-A788-AEDB7F6E66F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{599E0CF8-AFBE-4007-A788-AEDB7F6E66F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{599E0CF8-AFBE-4007-A788-AEDB7F6E66F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7C16BD0-1BE6-4D17-91EF-C5862EF6ED6C}
 	EndGlobalSection
 EndGlobal
